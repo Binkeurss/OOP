@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDiem", "CDiem\CDiem.vcxproj", "{E7647D44-D886-4F74-BAFF-C28E3626B0B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CDiemKhongGian", "CDiemKhongGian\CDiemKhongGian.vcxproj", "{C8386835-FB58-4E90-A916-7184DE2DDB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E7647D44-D886-4F74-BAFF-C28E3626B0B6}.Release|x64.Build.0 = Release|x64
 		{E7647D44-D886-4F74-BAFF-C28E3626B0B6}.Release|x86.ActiveCfg = Release|Win32
 		{E7647D44-D886-4F74-BAFF-C28E3626B0B6}.Release|x86.Build.0 = Release|Win32
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Debug|x64.ActiveCfg = Debug|x64
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Debug|x64.Build.0 = Debug|x64
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Debug|x86.Build.0 = Debug|Win32
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Release|x64.ActiveCfg = Release|x64
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Release|x64.Build.0 = Release|x64
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Release|x86.ActiveCfg = Release|Win32
+		{C8386835-FB58-4E90-A916-7184DE2DDB9C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
